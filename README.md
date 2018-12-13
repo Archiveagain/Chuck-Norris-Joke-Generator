@@ -1,0 +1,3 @@
+# Chuck-Norris-Joke-Generator
+Funny well known Chuck Norris Joke Generator. Type number of jokes that you wish to display and enjoy, smile and cry ;))
+First repository which consist Ajax...
